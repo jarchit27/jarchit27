@@ -21,7 +21,7 @@
   <img align="right" src="https://via.placeholder.com/250" width="250" alt="About me image">
 </picture>
 
-- :school: I am a **Pre-Final year** student at the [Department of Computer Science and Engineering](https://www.iitg.ac.in/cse/) at [Indian Institute of Technology Guwahati](https://iitg.ac.in/).
+- :school: I am a **Pre-Final year** student at the [Department of Electronics and Electrical and Engineering](https://www.iitg.ac.in/eee/) at [Indian Institute of Technology Guwahati](https://iitg.ac.in/).
 - :technologist: I love using software as a solution for every **problem**.
 - :computer: I am a competitive programmer on platforms like **Codeforces**, **CodeChef**, **AtCoder**, and **LeetCode**.
 - :student: I’m currently learning **Computer Science** and **Software Engineering**.
