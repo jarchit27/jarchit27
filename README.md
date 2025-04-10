@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Archit Jangid</h1>
+<h1 align="center">Hi 👋, I'm Archit Jain</h1>
 <h3 align="center">A passionate Full Stack Developer and Competitive Programmer 🚀</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **MERN stack + DSA**
 - 🌱 Learning **System Design & Backend Architecture**
 - 💬 Ask me about **C++, Web Dev, DSA, or Dev Tools**
-- 📫 Reach me at: `architjangid1803@gmail.com`
+- 📫 Reach me at: `j.archit134@gmail.com`
 - ⚡ Fun Fact: I debug in my dreams 😴💻
 
 ---
